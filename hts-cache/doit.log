@@ -1,0 +1,8 @@
+https://www.iambic.org/ -O ~/Documents/website3 -%e +*.webflow.com/*
+File generated automatically on Thu, 07 Sep 2023 19:54:04, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
